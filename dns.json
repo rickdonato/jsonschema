@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://network-configs.com/schemas/dns.json",
+  "$id": "https://raw.githubusercontent.com/rickdonato/jsonschema/main/dns.json",
   "title": "DNS Settings",
   "type": "object",
   "properties": {
